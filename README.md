@@ -1,2 +1,2 @@
 # cs1410
-Object-Oriented Programming (Java) Fall 2017
+Object-Oriented Programming Fall 2017
